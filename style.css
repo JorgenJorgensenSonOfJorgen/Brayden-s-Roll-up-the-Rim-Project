@@ -1,0 +1,16 @@
+body {
+    text-align: center
+}
+
+.Selection {
+    border : 2px solid red
+}
+#num-coffees {
+    margin-right: 20px
+}
+#num-donuts {
+    margin-right: 20px
+}
+#num-agains {
+    margin-right: 20px
+}
